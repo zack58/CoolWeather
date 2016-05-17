@@ -1,4 +1,9 @@
-package com.coolweather.app;
+package com.coolweather.app.activity;
+
+import com.coolweather.app.R;
+import com.coolweather.app.R.id;
+import com.coolweather.app.R.layout;
+import com.coolweather.app.R.menu;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
